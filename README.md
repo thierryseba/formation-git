@@ -3,9 +3,9 @@
 
 ## Titre niveau 2
 
-+1
-+2
-+3
++ 1
++ 2
++ 3
 
 1. Un
 2. Deux
@@ -20,4 +20,4 @@ Formation *GIT*
 <html></html>
 ```
 
-[Lien](http://google.fr)
+[Lien](http://google.fr )
